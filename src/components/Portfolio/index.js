@@ -14,6 +14,9 @@ export default class Portfolio extends Component {
         <div>
           <br />
           <br />
+          <br />
+          <br />
+          <br />
           <MuiThemeProvider>
           <ProjectListing />
           </MuiThemeProvider>

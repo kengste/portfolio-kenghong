@@ -13,7 +13,7 @@ const styles = {
     justifyContent: 'space-around',
   },
   gridList: {
-    width: 500,
+    width: 600,
     height: 450,
     overflowY: 'auto',
   },
@@ -50,7 +50,7 @@ const tilesData = [
 const Projects = () => (
   <div style={styles.root}>
     <GridList
-      cellHeight={180}
+      cellHeight={200}
       style={styles.gridList}
       cols={3}
     >

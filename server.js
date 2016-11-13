@@ -13,6 +13,7 @@ var port = process.env.API_PORT || 3001;
 mongoose.Promise = global.Promise;
 mongoose.connect('mongodb://kengste:password@ds050189.mlab.com:50189/dbuser');
 
+app.use(express.static(__dirname + '/public'));
 // now we should configure the API to use bodyParser and look for JSON data in the request body
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());

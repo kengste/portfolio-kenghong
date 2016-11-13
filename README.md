@@ -1,1 +1,1 @@
-[Click here](https://portfolio-kenghong.herokuapp.com/) for the deployed version on Heroku :)
+[Click here](www.kenghong.online) for the deployed version :)
