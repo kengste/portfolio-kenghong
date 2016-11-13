@@ -25,7 +25,9 @@ class Header extends Component {
               <div style={style1}>
               <a href='https://github.com/kengste'><i className="fa fa-github fa-2x" aria-hidden="true"></i></a>
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <i className="fa fa-envelope-square fa-2x" aria-hidden="true"></i>
+              <a href='http://linkedin.com/in/kohkenghong'><i className="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+              &nbsp;&nbsp;&nbsp;&nbsp;
+              <a href='mailto:kengste@gmail.com'><i className="fa fa-envelope-square fa-2x" aria-hidden="true"></i></a>
               &nbsp;&nbsp;&nbsp;&nbsp;
               </div>
               </div>

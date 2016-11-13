@@ -50,7 +50,7 @@ export default class Home extends Component {
       <h6>FULL STACK GENERALIST || MINIMALIST || COFFEE ENTHUSIAST</h6>
       Hello! I am a <s>former auditor turned</s> web developer. Over 12 weeks of coding at a coding bootcamp by General Assembly<br />
       Singapore, I have become familiar with tech stacks such as JavaScript, Node.js, Express, Ruby on Rails, Postgres and more.<br />
-      I am especially enthused over the use of <b>Ruby on Rails</b> and <b>React.js</b> in web development and would love the opportunity<br />
+    I am especially enthused over the use of <b>Ruby on Rails</b> and <b>React.js</b> in web development and would relish the opportunity<br />
       to talk to anyone who shares a common passion for either stack.<br />
        <br />
        If you have a question or just want to say hi, drop me an email and let's talk.
